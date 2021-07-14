@@ -4,7 +4,7 @@
 
 使用方法
 
-请注意：使用之前请安装PySide2库，以及下载位于https://github.com/fourlight/fra_cal/tree/main
+请注意：使用之前请安装PySide2库，以及下载位于https://github.com/fourlight/fra_cal
 目录下的ui_fra_cal.py文件
 
 1.点击运行之后，看到一个界面，输入两个分数的分子以及分母
